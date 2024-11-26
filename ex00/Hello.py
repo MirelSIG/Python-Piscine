@@ -8,9 +8,9 @@ ft_list[1] = "¡Mundo!"
 
 
 ft_tuple = ("Hola", "¡Toto!")
-lista_temporal = list(ft_tuple)
-lista_temporal[1] = "¡España!"
-ft_tuple = tuple(lista_temporal)
+temp_list = list(ft_tuple)
+temp_list[1] = "¡España!"
+ft_tuple = tuple(temp_list)
 
 
 ft_set = {"Hola", "¡tutú!"}

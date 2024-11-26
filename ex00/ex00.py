@@ -3,9 +3,9 @@ lista_ft[1] = "¡Mundo!"
 print(lista_ft)
 
 ft_tuple = ("Hola", "¡Toto!")
-lista_temporal = list(ft_tuple)
-lista_temporal[1] = "¡España!"
-ft_tuple = tuple(lista_temporal)
+temp_list = list(ft_tuple)
+temp_list[1] = "¡España!"
+ft_tuple = tuple(temp_list)
 print(ft_tuple)
 
 ft_set = {"Hola", "¡tutú!"}
