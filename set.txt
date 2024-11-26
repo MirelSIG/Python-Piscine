@@ -1,0 +1,18 @@
+╔═════════════════════════════════════==========══╗
+║               MÉTODOS DE SET                    ║
+╠═══════════════════════╦═══════════════==========╣
+║     MANIPULACIÓN      ║  OPERACIONES            ║
+╠═══════════════════════╬═══════════════==========╣
+║ add(elem)             ║ union(s)                ║
+║ remove(elem)          ║ intersection(s)         ║
+║ discard(elem)         ║ difference(s)           ║
+║ pop()                 ║ symmetric_difference(s) ║
+║ clear()               ║ update(s)               ║
+║ copy()                ║ intersection_update(s)  ║
+╠═══════════════════════╩═════════════===========═╣
+║       CONSULTAS                                 ║
+╠═══════════════════════════════════===========═══╣
+║ isdisjoint(s)                                   ║
+║ issubset(s)                                     ║
+║ issuperset(s)                                   ║
+╚═════════════════════════===========═════════════╝
